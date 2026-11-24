@@ -1,6 +1,6 @@
 # CAAD DEVELOPMENT, LLC website
 
-A responsive, single-page marketing website built with plain HTML, CSS and JavaScript. No build step or package installation is required.
+A responsive marketing website with standalone Privacy Policy and Terms & Conditions pages, built with plain HTML, CSS and JavaScript. No build step or package installation is required.
 
 ## Run locally in Visual Studio Code
 
@@ -8,6 +8,8 @@ A responsive, single-page marketing website built with plain HTML, CSS and JavaS
 2. Open `index.html` in a browser. For live reload, install the **Live Server** extension, right-click `index.html`, and select **Open with Live Server**.
 
 The site uses Google Fonts, Unsplash-hosted sample imagery and a Google Maps embed, so those elements require an internet connection.
+
+The legal pages are available at `/privacy-policy/` and `/terms-and-conditions/` when served from the site root.
 
 ## Before publishing
 
